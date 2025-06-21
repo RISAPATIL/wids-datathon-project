@@ -24,12 +24,6 @@ The dataset included **fMRI time-series data** and **detailed patient informatio
 
 ---
 
-## 🧠 Summary
-
-The study is based on experimental data from 1,127 concrete specimens with varied **fly ash content (0%–30%)** and **thermal exposure (ambient to 1000°C)**. A variety of **supervised machine learning models** were evaluated.
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 - **Pandas** – for data manipulation and analysis  
