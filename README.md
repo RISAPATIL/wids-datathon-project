@@ -40,7 +40,6 @@ The dataset included **fMRI time-series data** and **detailed patient informatio
 ## 📍 Platform & Environment
 
 - **Jupyter Notebook** (Python 3)
-- Likely executed in **Kaggle Notebooks** environment
 
 ---
 
@@ -48,12 +47,6 @@ The dataset included **fMRI time-series data** and **detailed patient informatio
 
 - **ADHD Prediction** → `SelectKBest` + `LightGBM`  
 - **Sex Prediction** → `SelectKBest` + `Logistic Regression`
-
----
-
-## 📌 Note
-
-Due to ongoing publication, the **code and dataset are not publicly available** at this time.
 
 ---
 
